@@ -1,0 +1,5 @@
+2025-05-13 12:10:42,212 ERROR: MISTRAL_API_KEY no encontrada en las variables de entorno [in /home/ivan/Documentos/goemotions/main.py:34]
+2025-05-13 12:14:19,382 ERROR: MISTRAL_API_KEY no encontrada en las variables de entorno [in /home/ivan/Documentos/goemotions/main.py:34]
+2025-05-13 12:17:29,742 INFO: Clasificador de emociones cargado correctamente en CPU [in /home/ivan/Documentos/goemotions/main.py:53]
+2025-05-13 12:17:29,742 INFO: Iniciando servidor en el puerto 5000 [in /home/ivan/Documentos/goemotions/main.py:266]
+2025-05-13 12:51:19,641 INFO: Iniciando servidor en el puerto 5000 [in /home/ivan/Documentos/goemotions/app/main.py:33]
